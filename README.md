@@ -1,1 +1,1 @@
-![test](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={thatguysilva}&theme={default})
+![test](https://github-profile-summary-cards.vercel.app/api/cards/{stats}?username={thatguysilva}&theme={default})
