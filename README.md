@@ -1,1 +1,1 @@
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thatguysilva&theme=solarized)
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thatguysilva&theme=github)
