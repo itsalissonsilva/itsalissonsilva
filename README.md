@@ -47,6 +47,6 @@ I am a graduate student at IFT - UNESP working on Quantum Chromodynamics (QCD). 
 <div>
     <a href = "mailto:silva.unb.phys@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alisson-silva-b563a3253/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-  <a href="https://www.codewars.com/users/mr.alisson" ><img src="https://www.codewars.com/users/mr.alisson/badges/small"</a>
+  <a href="https://www.codewars.com/users/itsalissonsilva" ><img src="https://www.codewars.com/users/itsalissonsilva/badges/small"</a>
 </div>
 
