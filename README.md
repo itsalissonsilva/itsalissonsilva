@@ -32,11 +32,11 @@ I am a graduate student at IFT - UNESP working on Quantum Chromodynamics (QCD). 
     <tr>
       <!-- Streak Element on the Left with Increased Size -->
       <td>
-        <img src="http://github-readme-streak-stats.herokuapp.com?user=thatguysilva&theme=dark" width="700" />
+        <img src="http://github-readme-streak-stats.herokuapp.com?user=itsalissonsilva&theme=dark" width="700" />
       </td>
       <!-- Summary Card on the Right -->
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thatguysilva&theme=github_dark" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsalissonsilva&theme=github_dark" />
       </td>
     </tr>
   </table>
