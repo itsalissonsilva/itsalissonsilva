@@ -1,10 +1,10 @@
-# Hello there! ☀️
+# About me:
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)]()
 
-### About me:
+
 I am a graduate student at IFT - UNESP working on Quantum Chromodynamics (QCD). I'm very interested in emerging technologies like generative artifical intelligence and quantum computing. I've built a number of projects connected to a lot of different themes throughout the years and have gained some experience in both web development and data analysis. Check out the tools I use below.
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)]()
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)]()
 
 <div align="center">
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -26,7 +26,7 @@ I am a graduate student at IFT - UNESP working on Quantum Chromodynamics (QCD). 
 
 </div>
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)]()
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)]()
 
 <div align="center">
   <table>
@@ -43,7 +43,7 @@ I am a graduate student at IFT - UNESP working on Quantum Chromodynamics (QCD). 
   </table>
 </div>
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)]()
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)]()
 
 <div>
     <a href = "mailto:silva.unb.phys@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
