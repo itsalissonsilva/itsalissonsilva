@@ -43,7 +43,7 @@ I am a graduate student at IFT - UNESP working on Quantum Chromodynamics (QCD). 
   </table>
 </div>
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)]()
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)]()
 
 <div>
     <a href = "mailto:silva.unb.phys@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
