@@ -1,5 +1,5 @@
 # About me:
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)]()
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)]()
 
 
 I am a graduate student at IFT - UNESP working on Quantum Chromodynamics (QCD). I'm very interested in emerging technologies like generative artifical intelligence and quantum computing. I've built a number of projects connected to a lot of different themes throughout the years and have gained some experience in both web development and data analysis. Check out the tools I use below.
