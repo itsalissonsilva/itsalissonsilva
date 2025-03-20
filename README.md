@@ -2,7 +2,7 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)]()
 
 
-I am a graduate student at IFT - UNESP working on Quantum Chromodynamics (QCD). I'm very interested in emerging technologies like generative artifical intelligence and quantum computing. I've built a number of projects connected to a lot of different themes throughout the years and have gained some experience in both web development and data analysis. Check out the tools I use below.
+I have more than four years of programming experience in Python. I'm very interested in emerging technologies like generative artifical intelligence and quantum computing. I've built a number of projects connected to a lot of different themes throughout the years and have gained some experience in both web development and data analysis. Check out the tools I use below.
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)]()
 
