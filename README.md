@@ -22,7 +22,7 @@ I have more than five years of programming experience in Python from both academ
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
   <img height="30" width="40" src="https://cdn.svgporn.com/logos/seaborn-icon.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-  <img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/10/Streamlit_logo_vertical_colored_light.svg" alt="Streamlit logo" />
+  <img height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/10/Streamlit_logo_vertical_colored_light.svg" />
 
 
 </div>
