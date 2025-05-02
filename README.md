@@ -22,7 +22,8 @@ I have more than five years of programming experience in Python from both academ
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
   <img height="30" width="40" src="https://cdn.svgporn.com/logos/seaborn-icon.svg" />
   <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-  <img height="30" width="40" src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.svg" />
+  <img height="30" width="30" src="https://streamlit.io/images/brand/streamlit-mark-color.svg" />
+
 
 
 
