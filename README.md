@@ -2,7 +2,7 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/solar.png)]()
 
 
-I have more than five years of programming experience in Python from both academia and work experiences. I'm very interested in emerging technologies like generative artificial intelligence and quantum computing. My toolkit includes tools such as PySpark for data processing, scikit-learn and PyTorch for model development, Databricks for collaborative data engineering and machine learning workflows and AWS for cloud-based solutions. Currently I'm focused on learning and implementing practical AI/ML applications.
+I have more than five years of programming experience in Python from both academia and work experiences. I'm very interested in emerging technologies like generative artificial intelligence and quantum computing. My toolkit includes tools such as PySpark for data processing, scikit-learn and PyTorch for model development, Databricks for collaborative data engineering and machine learning workflows and AWS for cloud-based solutions. Currently I'm focused on developing and implementing practical AI/ML applications.
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)]()
 
