@@ -34,17 +34,16 @@ I have more than five years of programming experience in Python from both academ
 <div align="center">
   <table>
     <tr>
-      <!-- Streak Element on the Left with Increased Size -->
       <td>
         <img src="https://streak-stats.demolab.com?user=itsalissonsilva&theme=dark" width="700" />
       </td>
-      <!-- Summary Card on the Right -->
       <td>
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsalissonsilva&theme=github_dark" />
       </td>
     </tr>
   </table>
 </div>
+
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)]()
 
