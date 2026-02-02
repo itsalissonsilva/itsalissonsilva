@@ -36,7 +36,7 @@ I have more than five years of programming experience in Python from both academ
     <tr>
       <!-- Streak Element on the Left with Increased Size -->
       <td>
-        <img src="http://github-readme-streak-stats.herokuapp.com?user=itsalissonsilva&theme=dark" width="700" />
+        <img src="https://github-readme-streak-stats.herokuapp.com?user=itsalissonsilva&theme=dark" width="700" />
       </td>
       <!-- Summary Card on the Right -->
       <td>
