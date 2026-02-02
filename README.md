@@ -35,7 +35,7 @@ I have more than five years of programming experience in Python from both academ
   <table>
     <tr>
       <td>
-        <img src="https://streak-stats.demolab.com?user=itsalissonsilva&theme=dark" width="700" />
+        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-three-steel.vercel.app?user=itsalissonsilva&theme=dark" alt="GitHub Streak" /></a>
       </td>
       <td>
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itsalissonsilva&theme=github_dark" />
