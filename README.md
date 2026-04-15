@@ -22,7 +22,7 @@ I'm an AI/ML engineer with more than five years of programming experience in Pyt
     <td style="border:none;"><img title="PyTorch" alt="PyTorch" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" /></td>
     <td style="border:none;"><img title="Docker" alt="Docker" height="30" width="40" src="https://cdn.simpleicons.org/docker/2496ED" /></td>
     <td style="border:none;"><img title="MLflow" alt="MLflow" height="30" width="40" src="https://cdn.simpleicons.org/mlflow/0194E2" /></td>
-    <td style="border:none;"><img title="AWS" alt="AWS" height="30" width="30" src="https://cmscritic.com/ms-content/uploads/2024/03/aws-logo-icon.jpg?format=auto&width=256" /></td>
+    <td style="border:none;"><img title="AWS" alt="AWS" height="30" src="https://cmscritic.com/ms-content/uploads/2024/03/aws-logo-icon.jpg?format=auto&width=256" /></td>
     <td style="border:none;"><img title="Keras" alt="Keras" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" /></td>
   </tr>
 </table>
