@@ -78,15 +78,5 @@ I'm an AI/ML engineer with more than five years of programming experience in Pyt
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/cloudy.png)]()
 
-<div>
-  <a href="mailto:alisson.silva.global@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/itsalissonsilva/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.codewars.com/users/itsalissonsilva" target="_blank">
-    <img src="https://www.codewars.com/users/itsalissonsilva/badges/small" alt="Codewars" />
-  </a>
-</div>
+<div> <a href = "mailto:alisson.silva.global@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <a href="https://www.linkedin.com/in/itsalissonsilva/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href="https://www.codewars.com/users/itsalissonsilva" ><img src="https://www.codewars.com/users/itsalissonsilva/badges/small"</a> </div>
 
